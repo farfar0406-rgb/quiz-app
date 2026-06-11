@@ -1,1 +1,0 @@
-解壓縮後直接開 index.html 即可使用。也可整個資料夾上傳 Netlify / GitHub Pages 產生網址。此版為單檔APP，CH1+CH2+CH3+CH4共300題，題庫與圖片已內嵌，並已整合 GA4：G-WVRVM86KE0。
